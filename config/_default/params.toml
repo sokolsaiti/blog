@@ -1,0 +1,11 @@
+# Homepage Config
+isSinglePage = true
+
+# Meta Config
+description = "Sokol Saiti, Oracle DBA, Developer"
+
+# Header Configuration
+avatar = "img/profile-picture.jpg"
+
+[emoji]
+enableEmoji = true
