@@ -14,5 +14,3 @@ Besides my main work, I like to explore Python programming language as a hobby. 
 
 The posts on this blog are mainly in Albanian.
 
-My Github profile is located [here](https://github.com/sokolsaiti)
-
