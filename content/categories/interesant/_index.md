@@ -1,5 +1,5 @@
 ---
-title: "JavaScript"
+title: "Interesant"
 draft: false
 ---
 
