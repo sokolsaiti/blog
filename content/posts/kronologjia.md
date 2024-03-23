@@ -11,7 +11,7 @@ draft: false # Set 'false' to publish
 #### Fillimi
 
 Në fillim ishte lodhja, lodhje rraskapitëse. Pastaj erdhi dhimbja. Dhimbje në funksion me kohën, që shpeshtohej. Sikurse rrahjet e tupanave frekuenca e të cilave rritej në mënyrë progresive. 
-Një herë në ditë, çdo tre orë, çdo orë, çdo 10 minuta! Diçka ishte prishë në organizmin e Rronit. Në moshën e tij, pritja është që gjithçka të funksionojë si një orë zvicerane, si një maqineri perfekte. Kështu mendonin edhe mjekët, “Ka infeksion” ose “Ka kaps” - thonin. Nëna, me instinktin e saj nuk iu besonte, përkundër insistimeve të saja, mjekët mbetën në “Ka infeksion”. Një default përgjigje, një ```bash /dev/null ``` në lëmin e mjekësisë. 
+Një herë në ditë, çdo tre orë, çdo orë, çdo 10 minuta! Diçka ishte prishë në organizmin e Rronit. Në moshën e tij, pritja është që gjithçka të funksionojë si një orë zvicerane, si një maqineri perfekte. Kështu mendonin edhe mjekët, “Ka infeksion” ose “Ka kaps” - thonin. Nëna, me instinktin e saj nuk iu besonte, përkundër insistimeve të saja, mjekët mbetën në “Ka infeksion”. Një default përgjigje, një ```/dev/null ``` në lëmin e mjekësisë. 
 
 
 #### Crvuljak
