@@ -4,7 +4,7 @@ draft: false
 ---
 
 Hello I am Sokol.
-I work as a Database Administrator for [Quipu Processing Center](https://www.quipu.de/productsservices/card-payment-services/), a company focused in payments industry based in Frankfurt, Germany.
+I work as a Database Administrator for [Quipu Processing Center](https://www.quipu.de/productsservices/card-payment-services/) part of [Quipu GmbH](https://www.quipu.de), a company focused in payments industry and banking solutions based in Frankfurt, Germany.
 
 Previously I have worked as a DBA for [IPKO](https://www.ipko.com/), which is a telecommunications company that operates in Kosovo.
 
